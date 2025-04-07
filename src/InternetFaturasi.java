@@ -1,4 +1,3 @@
-package task03;
 import java.util.Scanner;
 public class InternetFaturasi {
 
